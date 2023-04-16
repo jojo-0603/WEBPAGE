@@ -10,3 +10,15 @@ function background(id){
     }
 
 }
+
+
+        
+
+    
+function sendid(Id){
+  
+ 
+ 
+    document.getElementById(Id).innerHTML = '';
+ 
+} 

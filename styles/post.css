@@ -1,0 +1,64 @@
+body{
+    background-color: aliceblue;
+}
+#title-post{
+    text-align: center;
+    margin-top: 5%;
+    
+}
+#post-text{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#post-author{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+#edit{
+    margin-top: -7%;
+    margin-left: 90%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%;
+    background-color: red;
+    color: whitesmoke;
+  
+}  
+#text-edit{ margin-bottom: 3%;
+    text-align: center;
+}
+.wrapper textarea{
+    width: 100%;
+    height: 740px;
+   resize: both;
+   outline: none;padding: 15px;
+
+}
+.edit-bth{
+    position: absolute;
+    right: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%; 
+    background-color: red;
+    color: whitesmoke;
+    top:200%
+}
+.wrapper1 textarea{
+    width: 100%;
+    height: 70px;
+   resize: both;
+   outline: none;padding: 15px;
+   text-align: center;
+   margin-top: 5%;
+   
+   
+
+}
+#post-text1{
+    text-align: center;
+   margin-top: 5%;
+   
+}
